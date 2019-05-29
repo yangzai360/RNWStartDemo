@@ -9,10 +9,13 @@
   },
   "main": "src/index.js",
   "dependencies": {
+    "dva-core": "^1.4.0",
     "react": "16.8.3",
     "react-dom": "^16.8.6",
     "react-native": "0.59.8",
     "react-native-web": "^0.11.4",
+    "react-redux": "^7.0.3",
+    "react-router": "^5.0.0",
     "react-scripts": "^3.0.1"
   },
   "browserslist": [
